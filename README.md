@@ -25,7 +25,7 @@ This project is a mobile application for real-time multi-modal product detection
 
 This application focuses on leveraging computer vision to detect products in real-time using camera input. It supports both image and video inputs, providing a robust solution for product identification and management.
 
-![image1]https://github.com/rathee-19/Computer-Vision-Applicatoin-project/images/R1-1.png
+![image1](https://github.com/rathee-19/Computer-Vision-Applicatoin-project/images/R1-1.png)
 
 ## Release 1 Mission Statement
 
