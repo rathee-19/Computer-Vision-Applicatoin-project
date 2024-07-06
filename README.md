@@ -27,6 +27,8 @@ This application focuses on leveraging computer vision to detect products in rea
 
 ![image1](https://github.com/rathee-19/Computer-Vision-Applicatoin-project/images/R1-1.png)
 
+![Alt text](https://github.com/rathee-19/Custom-System-Calls-and-Scheduling-in-xv6/blob/main/mlfq_plot.png)
+
 ## Release 1 Mission Statement
 
 Our mission for the first release was to create a functional prototype that can accurately detect products in real-time using the device camera.
